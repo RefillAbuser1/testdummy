@@ -1,0 +1,6 @@
+{
+    "yt_api_key" : "key here",
+    "discord_token" : "token here",
+    "bot_controller" : "role id",
+    "prefix" : "+"
+}
