@@ -17,4 +17,4 @@ testbot.login(process.env.BOT_TOKEN);
 
 testbot.on('ready', function () {
   console.log("testbot is online")
-}};
+});
